@@ -4,6 +4,8 @@
 * Noodles
 * Cheese
 * Awesome-spice
+* Salt
+* Pepper
 
 ## Directions
 * Serve warm
