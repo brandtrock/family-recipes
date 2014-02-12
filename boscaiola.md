@@ -7,6 +7,7 @@ Forrest mushrooms and italian pasta ymminess.
 * Garlic
 
 ## Directions
+1. Boil
 
 ## Notes
 You'll want more than...
