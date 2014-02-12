@@ -8,4 +8,8 @@
 * Pepper
 
 ## Directions
-* Serve warm
+1. Salt water
+2. Boil water
+3. Cook noodles
+4. Add cheese
+5. Serve warm
