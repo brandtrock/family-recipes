@@ -1,16 +1,17 @@
-#Basic Scones
+## Basic Scones
 
-#Ingredients
-Flour
-Baking powder
-Baking soda
-Salt
-Butter
-Yogurt
-Eggs
-Blueberries (optional)
+## Ingredients
 
-#Instructions
++ Flour
++ Baking powder
++ Baking soda
++ Salt
++ Butter
++ Yogurt
++ Eggs
++ Blueberries (optional)
+
+## Instructions
 1) Preheat oven
 
 2) Sift together dry ingredients
